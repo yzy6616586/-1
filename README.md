@@ -1,0 +1,1 @@
+初始代码，实验时再修改重复次数和增加QueryPerformanceFrequency计时
